@@ -7,7 +7,7 @@
 - 📱 I'm really into cross-platform development (.Net mostly)
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: Just send me an email at jonathan.edu.gar@gmail.com
-- ⚡ Fun fact: I love you
+
 
 ![Jon's github stats](https://github-readme-stats.vercel.app/api?username=Jon2G&show_icons=true)
 
