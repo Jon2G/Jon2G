@@ -21,6 +21,10 @@
 <a href="https://play.google.com/store/apps/developer?id=Jonathan+Eduardo+Garc%C3%ADa+Garc%C3%ADa">
 <img src="https://github.com/Jon2G/Jon2G/blob/main/Images/google_play.png" height="40" width="150">
 </a>
+ <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Jon2G/count.svg" />
+</p>
  </div>
 
 
