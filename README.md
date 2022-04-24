@@ -10,7 +10,7 @@
 
 
 ![Jon's github stats](https://github-readme-stats.vercel.app/api?username=Jon2G&show_icons=true)
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Your_GitHub_Username&theme=blue-green)
 ## Skills
 
 I work mainly with `.Net C#`, `Xamarin` and `C++`. 
