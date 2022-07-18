@@ -8,9 +8,13 @@
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: Just send me an email at jonathan.edu.gar@gmail.com
 
-
-![Jon's github stats](https://github-readme-stats.vercel.app/api?username=Jon2G&show_icons=true)
+![Jon's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jon2G)
 ![Jon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jon2G&show_icons=true)
+![Jon's github stats](https://github-readme-stats.vercel.app/api?username=Jon2G&show_icons=true)
+
+
+
+
 ## Skills
 
 I work mainly with `.Net C#`, `Xamarin` and `C++`. 
