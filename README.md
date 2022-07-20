@@ -1,21 +1,40 @@
-### Hi there 👋
+### 
+## **Hi there ☕**
 
-- 🔭 I’m Jonathan García
-- 🏢 I'm a Computer Engineer 
-- 🌱 I'm studying a master's degree on informatic security
-- ❤️ I’m looking to contribute to the open-source community
-- 📱 I'm really into cross-platform development (.Net mostly)
-- 😄 Pronouns: he/him/his
-- 📫 How to reach me: Just send me an email at jonathan.edu.gar@gmail.com
-
-![Jon's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jon2G)
-![Jon's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jon2G&show_icons=true)
-![Jon's github stats](https://github-readme-stats.vercel.app/api?username=Jon2G&show_icons=true)
-
-
+<img align="right" alt="coding" width="300"   src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jon2G&layout=compact&theme=radical&langs_count=6">
+<ul>
+    <li>- 🔭 I’m Jonathan García</li>
+    <li>- 🏢 I'm a Computer Engineer </li>
+    <li>- 🌱 I'm studying a master's degree on informatic security</li>
+    <li>- ❤️ I’m looking to contribute to the open-source community</li>
+    <li>- 📱 I'm really into cross-platform development (.Net mostly)</li>
+    <li>- 😄 Pronouns: he/him/his</li>
+    <li>- 📫 How to reach me: Just send me an email at jonathan.edu.gar@gmail.com</li>
+</ul>
 
 
-## Skills
+<p align="center">
+ <a href="https://github.com/Jon2G">
+  <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Jon2G&show_icons=true&theme=radical&count_private=true">
+ </a>
+
+ <a href="https://github.com/Jon2G">
+     
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jon2G&theme=radical&hide_border=true" />
+ </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/Jon2G">
+        <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jon2G&theme=radical&hide_border=true&count_private=true"/>
+    </a>
+    <a>
+    <img align="center" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"  width="270"/>
+    </a>
+</p>
+
+## **Skills:**
+
 
 I work mainly with `.Net C#`, `Xamarin` and `C++`. 
 
@@ -52,20 +71,3 @@ I work mainly with `.Net C#`, `Xamarin` and `C++`.
   <img src="https://profile-counter.glitch.me/Jon2G/count.svg" />
 </p>
  </div>
-
-
-
-<!--
-**Jon2G/Jon2G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
