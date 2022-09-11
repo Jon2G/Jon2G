@@ -66,8 +66,22 @@ I work mainly with `.Net C#`, `Xamarin` and `C++`.
 <a href="https://play.google.com/store/apps/developer?id=Jonathan+Eduardo+Garc%C3%ADa+Garc%C3%ADa">
 <img src="https://github.com/Jon2G/Jon2G/blob/main/Images/google_play.png" height="40" width="150">
 </a>
- <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Jon2G/count.svg" />
-</p>
+
+ </br>
+  </br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jon2G&style=for-the-badge&color=blueviolet" alt="elhaddajiotmane" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Jon2G&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="Jon2G" />
+</div>
+<p></p><p></p>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Jon2G&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="Jon2G" />
+</div>
+
  </div>
+ 
+![](https://hit.yhype.me/github/profile?user_id=24820069)
