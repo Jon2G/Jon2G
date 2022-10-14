@@ -61,6 +61,8 @@ I work mainly with `.Net C#`, `Xamarin` and `C++`.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="50" height="50" />
     <img src="https://posgrados.esimecu.ipn.mx/wp-content/uploads/2021/09/logo-misti-horizontal.png" height="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
+          
  
 
           
