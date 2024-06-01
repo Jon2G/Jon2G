@@ -36,7 +36,7 @@
 ## **Skills:**
 
 
-I work mainly with `.Net C#`, `Xamarin` and `C++`. 
+I work mainly with `.Net C#`, `MAUI` and `C++`. 
 
 <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" />
@@ -63,11 +63,10 @@ I work mainly with `.Net C#`, `Xamarin` and `C++`.
     <img src="https://posgrados.esimecu.ipn.mx/wp-content/uploads/2021/09/logo-misti-horizontal.png" height="50" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" />
           
- 
-
-          
-          
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <div>
