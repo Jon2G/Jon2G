@@ -66,6 +66,11 @@ I work mainly with `.Net C#`, `MAUI` and `C++`
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
