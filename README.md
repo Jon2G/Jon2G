@@ -68,7 +68,11 @@ I work mainly with `.Net C#`, `MAUI` and `C++`
 <!--START_SECTION:waka-->
 
 ```txt
-Other   14 mins         █████████████████████████   100.00 %
+Other      2 hrs 26 mins   ███████████████████░░░░░░   75.69 %
+C#         31 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+Binary     9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+XML        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
 ```
 
 <!--END_SECTION:waka-->
