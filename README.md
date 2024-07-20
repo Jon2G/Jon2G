@@ -12,6 +12,10 @@
     <li>- 📫 How to reach me: Just send me an email at jonathan.edu.gar@gmail.com</li>
 </ul>
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 
 <p align="center">
  <a href="https://github.com/Jon2G">
