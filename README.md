@@ -16,6 +16,35 @@
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
+<picture>
+  <img src="/activity.svg" alt="Activity">
+</picture>
+
+<picture>
+  <img src="/achievements.svg" alt="Achievements">
+</picture>
+
+<picture>
+    <!--START_SECTION:waka-->
+
+```txt
+C#                110 hrs 53 mins ███████████░░░░░░░░░░░░░░   44.10 %
+Binary            45 hrs 12 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
+XAML              44 hrs 27 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
+Other             35 hrs 53 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+XML               9 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+```
+
+<!--END_SECTION:waka-->
+</picture>
+<div>
+<picture >
+<img src="https://github-profile-trophy.vercel.app/?username=Jon2G&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="Jon2G" />
+ </picture>
+<picture >
+<img src="https://github-profile-trophy.vercel.app/?username=Jon2G&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="Jon2G" />
+ </picture>
+</div>
 
 <p align="center">
  <a href="https://github.com/Jon2G">
@@ -31,9 +60,6 @@
 <p align="center">
     <a href="https://github.com/Jon2G">
         <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jon2G&theme=radical&hide_border=true&count_private=true"/>
-    </a>
-    <a>
-    <img align="center" src="https://c.tenor.com/bCfpwMjfAi0AAAAC/cat-typing.gif"  width="270"/>
     </a>
 </p>
 
@@ -69,17 +95,7 @@ I work mainly with `.Net C#`, `MAUI` and `C++`
           
 </p>
 
-<!--START_SECTION:waka-->
 
-```txt
-C#                110 hrs 53 mins ███████████░░░░░░░░░░░░░░   44.10 %
-Binary            45 hrs 12 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
-XAML              44 hrs 27 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
-Other             35 hrs 53 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-XML               9 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-```
-
-<!--END_SECTION:waka-->
 
 
 <div>
@@ -100,14 +116,6 @@ XML               9 hrs 58 mins   █░░░░░░░░░░░░░░�
   <img src="https://komarev.com/ghpvc/?username=Jon2G&style=for-the-badge&color=blueviolet" alt="elhaddajiotmane" />
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jon2G&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="Jon2G" />
-</div>
-<p></p><p></p>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Jon2G&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="Jon2G" />
-</div>
 
- </div>
  
 ![](https://hit.yhype.me/github/profile?user_id=24820069)
