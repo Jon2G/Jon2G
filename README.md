@@ -24,8 +24,9 @@
   <img src="/achievements.svg" alt="Achievements">
 </picture>
 
-<picture>
-    <!--START_SECTION:waka-->
+
+    
+ <!--START_SECTION:waka-->
 
 ```txt
 C#                110 hrs 53 mins ███████████░░░░░░░░░░░░░░   44.10 %
@@ -36,7 +37,7 @@ XML               9 hrs 58 mins   █░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-</picture>
+
 <div>
 <picture >
 <img src="https://github-profile-trophy.vercel.app/?username=Jon2G&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="Jon2G" />
