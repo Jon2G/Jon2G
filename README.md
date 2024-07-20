@@ -5,7 +5,7 @@
 <ul>
     <li>- 🔭 I’m Jonathan García</li>
     <li>- 🏢 I'm a Computer Engineer </li>
-    <li>- 🌱 I'm studying a master's degree on informatic security</li>
+    <li>- 🥷 I have a master's degree on informatic security</li>
     <li>- ❤️ I’m looking to contribute to the open-source community</li>
     <li>- 📱 I'm really into cross-platform development (.Net mostly)</li>
     <li>- 😄 Pronouns: he/him/his</li>
