@@ -24,7 +24,9 @@
   <img src="/achievements.svg" alt="Achievements">
 </picture>
 
-
+<picture>
+  <img src="/metrics.plugin.topics.icons.svg" alt="Metrics">
+</picture>
     
  <!--START_SECTION:waka-->
 
