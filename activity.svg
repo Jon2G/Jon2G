@@ -67,8 +67,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a02147c</div>
-                                        <div class="message">Update index.js</div>
+                                        <div class="sha">#4db9966</div>
+                                        <div class="message">Update favicon.ico</div>
                                     </div>
                                 </div>
                             </section>
@@ -87,8 +87,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#fd6ce5c</div>
-                                        <div class="message">Update index.js</div>
+                                        <div class="sha">#17128e7</div>
+                                        <div class="message">update favicon</div>
                                     </div>
                                 </div>
                             </section>
@@ -107,8 +107,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#479028c</div>
-                                        <div class="message">Update deploy.yml</div>
+                                        <div class="sha">#a64bc40</div>
+                                        <div class="message">Update index.html</div>
                                     </div>
                                 </div>
                             </section>
@@ -127,8 +127,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9ee31e5</div>
-                                        <div class="message">Update deploy.yml</div>
+                                        <div class="sha">#f1a9f18</div>
+                                        <div class="message">fix samples margin</div>
                                     </div>
                                 </div>
                             </section>
@@ -147,8 +147,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1e1721c</div>
-                                        <div class="message">Update index.js</div>
+                                        <div class="sha">#0dc46c8</div>
+                                        <div class="message">Plantilla base para el cliente</div>
                                     </div>
                                 </div>
                             </section>
