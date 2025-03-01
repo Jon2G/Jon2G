@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="649" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="266" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .repo{display:inline;color:#58a6ff}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -61,6 +61,32 @@
                                     </svg>
                                     <div class="content">
                                         Starred
+                                        <span class="repo">salesHgabriel/SSync.LiteDB</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">CefView/QCefView</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
                                         <span class="repo">dadhi/DryIoc</span>
                                     </div>
                                 </div>
@@ -89,350 +115,6 @@
                                         Starred
                                         <span class="repo">castleproject/Core</span>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1437 commits in
-                                        <span class="repo">Jon2G/maui</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#2ac35ae</div>
-                                        <div class="message">[release/9.0.1xx-preview7] Build the previous TFMs (#24041)
-
-* Build the previous TFMs
-
-* )
-
-* cleanup
-
-* fix sample TFMs
-
-* this
-
-* tests
-
-* disable tizen for now on net8.0 TFMs
-
-* MauiPackageVersion
-
-* almost
-
-* remove it
-
-* pranks
-
-* this
-
-* net8 things
-
-* warns
-
----------
-
-Co-authored-by: Matthew Leibowitz &lt;mattleibow@live.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2dfbe3e</div>
-                                        <div class="message">[release/9.0.1xx-preview7] Bump macios to latest (#24026)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b5a4d26</div>
-                                        <div class="message">Update Preview7 to .NET MAUI 8.0.72 (#24042)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9272311</div>
-                                        <div class="message">[release/9.0.1xx-preview7] Remove the 'Resources' prefix from BundleResource (#24024)
-
-* Remove the 'Resources' prefix from BundleResource
-
-Fixes #23554
-
-Prior to Maui 8.0.70, there was a bug that only removed the "Resources/" prefix, and not the correct "Platforms/iOS/Resource": https://github.com/dotnet/maui/issues/16734
-
-This PR https://github.com/dotnet/maui/pull/23269 fixes the original issue, but now exposed the case where BundleResource were included in the root Resources folder instead of the Platforms/iOS/ folder.
-
-* Update Microsoft.Maui.Controls.SingleProject.targets
-
-* Update Microsoft.Maui.Controls.SingleProject.targets
-
-* Add a test
-
-* string
-
----------
-
-Co-authored-by: Matthew Leibowitz &lt;mattleibow@live.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c287d0</div>
-                                        <div class="message">Fix transparent default modal background (#23985)
-
-* Fix transparent default modal background
-
-* - fix test
-
-* - fix tests</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d387de8</div>
-                                        <div class="message">Call correct Arrange logic from VE.Arrange (#23997)
-
-* Call correct Arrange logic from VE.Arrange
-
-* - update comments
-
-* - add more comments
-
-* - add more comments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#20e456e</div>
-                                        <div class="message">[release/9.0.1xx-preview7] Update versions for iOS and sdk (#23977)
-
-* Update versions for iOS and sdk
-
-* Update versions
-
-* Update iOS
-
-* Update iOS again</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bdf0bbc</div>
-                                        <div class="message">[9.0.1xx-preview7] Merge 9.0 into 9.0.1xx-preview7 (#23957)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c079c2</div>
-                                        <div class="message">Merge branch 'net9.0' into merge_net9
-
-# Conflicts:
-#	src/Controls/src/Core/PublicAPI/net-ios/PublicAPI.Unshipped.txt
-#	src/Controls/src/Core/PublicAPI/net-maccatalyst/PublicAPI.Unshipped.txt
-#	src/Controls/src/Core/PublicAPI/net/PublicAPI.Unshipped.txt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#50e9fe0</div>
-                                        <div class="message">[net9.0] Add `Window.Activate()` (#23873)
-
-* WIP
-
-* wip
-
-* wip
-
-* cleanup
-
-* remove test code
-
-* Add error handler
-
-* Add to samples
-
-* Delete src/Controls/samples/Controls.Sample.Sandbox/TestPage.xaml.cs
-
-* Add missing stub
-
-* Add missing stub
-
-* Add missing stub
-
-* Add missing stub
-
-* Add missing stub
-
-* Add missing stub
-
-* Add missing stub
-
-* Update src/Core/src/Core/IApplication.cs
-
-Co-authored-by: Shane Neuville &lt;shane94@hotmail.com&gt;
-
----------
-
-Co-authored-by: Matthew Leibowitz &lt;mattleibow@live.com&gt;
-Co-authored-by: Shane Neuville &lt;shneuvil@microsoft.com&gt;
-Co-authored-by: Shane Neuville &lt;shane94@hotmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a52e5fa</div>
-                                        <div class="message">[iOS/MacCatalyst] CollectionViewHandler2 with compositional layout API's (#23928)
-
-* Bring in CollectionViewHandler2 files for iOS
-
-* Fix up rename compilation
-
-* Add public api changes
-
-* Use CV2 handler in sample
-
-* Use variable in sample</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#62197f4</div>
-                                        <div class="message">[release/9.0.1xx-preview7] Obsolete legacy measure calls (#23948)
-
-* Obsolete legacy measure calls
-
-* - no warn
-
-* - fix more no warn
-
-* - more no warn
-
----------
-
-Co-authored-by: Shane Neuville &lt;shneuvil@microsoft.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ca97c66</div>
-                                        <div class="message">Obsolete legacy measure calls (#23899)
-
-* Obsolete legacy measure calls
-
-* - no warn
-
-* - fix more no warn
-
-* - more no warn</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2317e1a</div>
-                                        <div class="message">[release/9.0.1xx-preview7] Bump to latest 8.0.1xx-sr7 (#23947)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e2fab8</div>
-                                        <div class="message">[android] update AOT profile for .NET 9 Preview 7 (#23927)
-
-Context: https://github.com/jonathanpeppers/Mono.Profiler.Android/releases/tag/9.0.0-preview.1
-
-I had to build dotnet/runtime from source and update the `Mono.AotProfiler.Android` NuGet package for this to work again.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a8b64e9</div>
-                                        <div class="message">[android] update AOT profile for .NET 9 Preview 7 (#23941)
-
-Context: https://github.com/jonathanpeppers/Mono.Profiler.Android/releases/tag/9.0.0-preview.1
-
-I had to build dotnet/runtime from source and update the `Mono.AotProfiler.Android` NuGet package for this to work again.
-
-Co-authored-by: Jonathan Peppers &lt;jonathan.peppers@microsoft.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8293aab</div>
-                                        <div class="message">[ci] Revert arcade changes (#23931)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e99d297</div>
-                                        <div class="message">[net9.0] Update preview7 packages (#23809)
-
-* [ci] Update sdk preview7
-
-* [net9.0] Update references for aspnet
-
-* Update sdk
-
-* Update preview7 packages
-
-* dotnet/runtime 8.0.8 feeds
-
-* Fix xamarin/xamarin-macios dependency names
-
-* darc update-dependencies --id 232964
-
-* $(DotNetMaciOSManifestVersionBand) is preview.7
-
-* $(NoWarn) CS0618, for Blazor scenarios
-
-D:\a\_work\1\s\artifacts\obj\Maui.Controls.Sample\Release\net9.0\Microsoft.CodeAnalysis.Razor.Compiler\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Main_razor.g.cs(81,55): error CS0618: 'Router.PreferExactMatches' is obsolete: 'This property is obsolete and configuring it has not effect.' [D:\a\_work\1\s\src\Controls\samples\Controls.Sample\Maui.Controls.Sample.csproj::TargetFramework=net9.0]
-D:\a\_work\1\s\artifacts\obj\Maui.Controls.Sample\Release\net9.0-maccatalyst\maccatalyst-x64\Microsoft.CodeAnalysis.Razor.Compiler\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Main_razor.g.cs(81,55): error CS0618: 'Router.PreferExactMatches' is obsolete: 'This property is obsolete and configuring it has not effect.' [D:\a\_work\1\s\src\Controls\samples\Controls.Sample\Maui.Controls.Sample.csproj::TargetFramework=net9.0-maccatalyst]
-D:\a\_work\1\s\artifacts\obj\Maui.Controls.Sample\Release\net9.0-android\Microsoft.CodeAnalysis.Razor.Compiler\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Main_razor.g.cs(81,55): error CS0618: 'Router.PreferExactMatches' is obsolete: 'This property is obsolete and configuring it has not effect.' [D:\a\_work\1\s\src\Controls\samples\Controls.Sample\Maui.Controls.Sample.csproj::TargetFramework=net9.0-android]
-D:\a\_work\1\s\artifacts\obj\Maui.Controls.Sample\Release\net9.0-tizen\Microsoft.CodeAnalysis.Razor.Compiler\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Main_razor.g.cs(81,55): error CS0618: 'Router.PreferExactMatches' is obsolete: 'This property is obsolete and configuring it has not effect.' [D:\a\_work\1\s\src\Controls\samples\Controls.Sample\Maui.Controls.Sample.csproj::TargetFramework=net9.0-tizen]
-D:\a\_work\1\s\artifacts\obj\Maui.Controls.Sample\Release\net9.0-ios\iossimulator-x64\Microsoft.CodeAnalysis.Razor.Compiler\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Main_razor.g.cs(81,55): error CS0618: 'Router.PreferExactMatches' is obsolete: 'This property is obsolete and configuring it has not effect.' [D:\a\_work\1\s\src\Controls\samples\Controls.Sample\Maui.Controls.Sample.csproj::TargetFramework=net9.0-ios]
-D:\a\_work\1\s\artifacts\obj\Maui.Controls.Sample\Release\net9.0-windows10.0.20348\win10-x64\intermediatexaml\Microsoft.CodeAnalysis.Razor.Compiler\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Main_razor.g.cs(81,55): error CS0618: 'Router.PreferExactMatches' is obsolete: 'This property is obsolete and configuring it has not effect.' [D:\a\_work\1\s\src\Controls\samples\Controls.Sample\Maui.Controls.Sample.csproj::TargetFramework=net9.0-windows10.0.20348]
-D:\a\_work\1\s\artifacts\obj\Maui.Controls.Sample\Release\net9.0-windows10.0.19041\win10-x64\intermediatexaml\Microsoft.CodeAnalysis.Razor.Compiler\Microsoft.NET.Sdk.Razor.SourceGenerators.RazorSourceGenerator\Main_razor.g.cs(81,55): error CS0618: 'Router.PreferExactMatches' is obsolete: 'This property is obsolete and configuring it has not effect.' [D:\a\_work\1\s\src\Controls\samples\Controls.Sample\Maui.Controls.Sample.csproj::TargetFramework=net9.0-windows10.0.19041]
-    388 Warning(s)
-    7 Error(s)
-
-* Ignore Apple API changes
-
-These are marked obsolete, but they likely "still work" for now:
-
-/Users/builder/azdo/_work/1/s/src/Essentials/src/Connectivity/Connectivity.ios.tvos.macos.reachability.cs(146,4): error CA1422: This call site is reachable on: 'MacCatalyst' 15.0 and later. 'NetworkReachability.Schedule(CFRunLoop, string)' is obsoleted on: 'maccatalyst' 17.4 and later (Use 'NSUrlSession' or 'NWConnection' instead.). (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1422) [/Users/builder/azdo/_work/1/s/src/Essentials/src/Essentials.csproj::TargetFramework=net9.0-maccatalyst]
-/Users/builder/azdo/_work/1/s/src/Essentials/src/Connectivity/Connectivity.ios.tvos.macos.reachability.cs(154,4): error CA1422: This call site is reachable on: 'MacCatalyst' 15.0 and later. 'NetworkReachability.SetNotification(NetworkReachability.Notification)' is obsoleted on: 'maccatalyst' 17.4 and later (Use 'NSUrlSession' or 'NWConnection' instead.). (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1422) [/Users/builder/azdo/_work/1/s/src/Essentials/src/Essentials.csproj::TargetFramework=net9.0-maccatalyst]
-/Users/builder/azdo/_work/1/s/src/Essentials/src/Connectivity/Connectivity.ios.tvos.macos.reachability.cs(145,4): error CA1422: This call site is reachable on: 'MacCatalyst' 15.0 and later. 'NetworkReachability.SetNotification(NetworkReachability.Notification)' is obsoleted on: 'maccatalyst' 17.4 and later (Use 'NSUrlSession' or 'NWConnection' instead.). (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1422) [/Users/builder/azdo/_work/1/s/src/Essentials/src/Essentials.csproj::TargetFramework=net9.0-maccatalyst]
-/Users/builder/azdo/_work/1/s/src/Essentials/src/Connectivity/Connectivity.ios.tvos.macos.reachability.cs(155,4): error CA1422: This call site is reachable on: 'MacCatalyst' 15.0 and later. 'NetworkReachability.Schedule(CFRunLoop, string)' is obsoleted on: 'maccatalyst' 17.4 and later (Use 'NSUrlSession' or 'NWConnection' instead.). (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1422) [/Users/builder/azdo/_work/1/s/src/Essentials/src/Essentials.csproj::TargetFramework=net9.0-maccatalyst]
-/Users/builder/azdo/_work/1/s/src/Essentials/src/WebAuthenticator/WebAuthenticator.ios.tvos.cs(75,11): error CA1422: This call site is reachable on: 'MacCatalyst' 12.0 and later. 'ASWebAuthenticationSession' is obsoleted on: 'maccatalyst' 17.4 and later (Use the 'ASWebAuthenticationSessionCallback' overload instead.). (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1422) [/Users/builder/azdo/_work/1/s/src/Essentials/src/Essentials.csproj::TargetFramework=net9.0-maccatalyst]
-/Users/builder/azdo/_work/1/s/src/Essentials/src/HapticFeedback/HapticFeedback.ios.cs(32,17): error CA1422: This call site is reachable on: 'MacCatalyst' 15.0 and later. 'UIImpactFeedbackGenerator' is obsoleted on: 'maccatalyst' 17.5 and later (Use 'GetFeedbackGenerator' method instead.). (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1422) [/Users/builder/azdo/_work/1/s/src/Essentials/src/Essentials.csproj::TargetFramework=net9.0-maccatalyst]
-/Users/builder/azdo/_work/1/s/src/Essentials/src/HapticFeedback/HapticFeedback.ios.cs(24,17): error CA1422: This call site is reachable on: 'MacCatalyst' 15.0 and later. 'UIImpactFeedbackGenerator' is obsoleted on: 'maccatalyst' 17.5 and later (Use 'GetFeedbackGenerator' method instead.). (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1422) [/Users/builder/azdo/_work/1/s/src/Essentials/src/Essentials.csproj::TargetFramework=net9.0-maccatalyst]
-/Users/builder/azdo/_work/1/s/src/Essentials/src/Connectivity/Connectivity.ios.tvos.macos.reachability.cs(155,4): error CA1422: This call site is reachable on: 'iOS' 13.0 and later, 'maccatalyst' 13.0 and later. 'NetworkReachability.Schedule(CFRunLoop, string)' is obsoleted on: 'ios' 17.4 and later (Use 'NSUrlSession' or 'NWConnection' instead.), 'maccatalyst' 17.4 and later (Use 'NSUrlSession' or 'NWConnection' instead.). (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1422) [/Users/builder/azdo/_work/1/s/src/Essentials/src/Essentials.csproj::TargetFramework=net9.0-ios]
-/Users/builder/azdo/_work/1/s/src/Essentials/src/Connectivity/Connectivity.ios.tvos.macos.reachability.cs(154,4): error CA1422: This call site is reachable on: 'iOS' 13.0 and later, 'maccatalyst' 13.0 and later. 'NetworkReachability.SetNotification(NetworkReachability.Notification)' is obsoleted on: 'ios' 17.4 and later (Use 'NSUrlSession' or 'NWConnection' instead.), 'maccatalyst' 17.4 and later (Use 'NSUrlSession' or 'NWConnection' instead.). (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1422) [/Users/builder/azdo/_work/1/s/src/Essentials/src/Essentials.csproj::TargetFramework=net9.0-ios]
-/Users/builder/azdo/_work/1/s/src/Essentials/src/Connectivity/Connectivity.ios.tvos.macos.reachability.cs(145,4): error CA1422: This call site is reachable on: 'iOS' 13.0 and later, 'maccatalyst' 13.0 and later. 'NetworkReachability.SetNotification(NetworkReachability.Notification)' is obsoleted on: 'ios' 17.4 and later (Use 'NSUrlSession' or 'NWConnection' instead.), 'maccatalyst' 17.4 and later (Use 'NSUrlSession' or 'NWConnection' instead.). (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1422) [/Users/builder/azdo/_work/1/s/src/Essentials/src/Essentials.csproj::TargetFramework=net9.0-ios]
-/Users/builder/azdo/_work/1/s/src/Essentials/src/Connectivity/Connectivity.ios.tvos.macos.reachability.cs(146,4): error CA1422: This call site is reachable on: 'iOS' 13.0 and later, 'maccatalyst' 13.0 and later. 'NetworkReachability.Schedule(CFRunLoop, string)' is obsoleted on: 'ios' 17.4 and later (Use 'NSUrlSession' or 'NWConnection' instead.), 'maccatalyst' 17.4 and later (Use 'NSUrlSession' or 'NWConnection' instead.). (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1422) [/Users/builder/azdo/_work/1/s/src/Essentials/src/Essentials.csproj::TargetFramework=net9.0-ios]
-/Users/builder/azdo/_work/1/s/src/Essentials/src/HapticFeedback/HapticFeedback.ios.cs(24,17): error CA1422: This call site is reachable on: 'iOS' 13.0 and later, 'maccatalyst' 13.0 and later. 'UIImpactFeedbackGenerator' is obsoleted on: 'ios' 17.5 and later (Use 'GetFeedbackGenerator' method instead.), 'maccatalyst' 17.5 and later (Use 'GetFeedbackGenerator' method instead.). (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1422) [/Users/builder/azdo/_work/1/s/src/Essentials/src/Essentials.csproj::TargetFramework=net9.0-ios]
-/Users/builder/azdo/_work/1/s/src/Essentials/src/HapticFeedback/HapticFeedback.ios.cs(32,17): error CA1422: This call site is reachable on: 'iOS' 13.0 and later, 'maccatalyst' 13.0 and later. 'UIImpactFeedbackGenerator' is obsoleted on: 'ios' 17.5 and later (Use 'GetFeedbackGenerator' method instead.), 'maccatalyst' 17.5 and later (Use 'GetFeedbackGenerator' method instead.). (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1422) [/Users/builder/azdo/_work/1/s/src/Essentials/src/Essentials.csproj::TargetFramework=net9.0-ios]
-/Users/builder/azdo/_work/1/s/src/Essentials/src/WebAuthenticator/WebAuthenticator.ios.tvos.cs(75,11): error CA1422: This call site is reachable on: 'iOS' 12.0 and later, 'maccatalyst' 13.0 and later. 'ASWebAuthenticationSession' is obsoleted on: 'ios' 17.4 and later (Use the 'ASWebAuthenticationSessionCallback' overload instead.), 'maccatalyst' 17.4 and later (Use the 'ASWebAuthenticationSessionCallback' overload instead.). (https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1422) [/Users/builder/azdo/_work/1/s/src/Essentials/src/Essentials.csproj::TargetFramework=net9.0-ios]
-    0 Warning(s)
-    14 Error(s)
-
-* Two more Apple API changes
-
-* use branded macios net9.0p7 versions
-
-* Update sdk and android
-
-* Update macios version
-
-* Update to sdk in validation and aspnet
-
-* Update iOS
-
-* Bump macios
-
----------
-
-Co-authored-by: Jonathan Peppers &lt;jonathan.peppers@microsoft.com&gt;
-Co-authored-by: Alex Soto &lt;alex@soto.dev&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f28ecd</div>
-                                        <div class="message">[net9.0] Merge `main` into `net9.0` (#23890)
-
-### Description of Change
-
-Merge main into net9.0</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#be906a1</div>
-                                        <div class="message">When swapping out ShellItems clear services (#23863)</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Merged
-                                        <span class="issue">#2 Fix prefix</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div> in <span class="repo">Jon2G/MAUI-InternationalPhoneEntry</span></div>
-                                    <div>2 files changed <span class="code">++46 --46</span></div>
                                 </div>
                             </section>
                         </div>
