@@ -41,24 +41,24 @@ jobs:
           plugin_16personalities_sections: personality, traits
           plugin_16personalities_scores: no
 
-      # Manager achievement still queries deprecated Projects (classic) API → "Unexpected error"
+      # Official lowlighter/metrics@latest still fails achievements (Projects classic)
+      # and activity (PushEvent.commits removed). Community fork has both fixes.
       # See: https://github.com/lowlighter/metrics/discussions/1763
+      #      https://github.com/lowlighter/metrics/discussions/1759
       - name: Achievements
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: EUR-UN/metrics-community@v3.35.0-community.2
         with:
           filename: achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
-          plugin_achievements_ignored: influencer, manager
+          plugin_achievements_ignored: influencer
           plugin_achievements_display: compact
 
-      # PushEvent no longer includes commits; filter crashes on push → "Unexpected error"
-      # See: https://github.com/lowlighter/metrics/discussions/1759
       - name: Activity
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
+        uses: EUR-UN/metrics-community@v3.35.0-community.2
         with:
           filename: activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -66,7 +66,7 @@ jobs:
           plugin_gists: yes
           plugin_activity: yes
           plugin_activity_days: 14
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create, comment, public, wiki
+          plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
