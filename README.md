@@ -42,10 +42,10 @@ XML                                71 hrs 28 mins        █░░░░░░�
 
 <div>
 <picture >
-<img src="https://github-profile-trophy.vercel.app/?username=Jon2G&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="Jon2G" />
+<img src="https://trophy.ryglcloud.net/?username=Jon2G&theme=dracula&title=Commits,Followers,Repositories,Stars&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=4" alt="Jon2G" />
  </picture>
 <picture >
-<img src="https://github-profile-trophy.vercel.app/?username=Jon2G&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="Jon2G" />
+<img src="https://trophy.ryglcloud.net/?username=Jon2G&theme=dracula&title=MultiLanguage,Issues,PullRequest&margin-w=10&margin-h=10&no-bg=true&no-frame=true&column=3" alt="Jon2G" />
  </picture>
 </div>
 
